@@ -1,8 +1,3 @@
----
-title: Easy English — Support
-description: Help and support for the Easy English dictionary app.
----
-
 # Easy English — Support
 
 **Easy English** is a free English↔Uzbek dictionary that works fully offline. Look up words in both directions, read English definitions, and build your own personal vocabulary list.
